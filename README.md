@@ -1,0 +1,1 @@
+Use the feed at http://www.stellarbiotechnologies.com/media/press-releases/json to display a lazy load the list of headlines and their publish date. Both limit and offset are available as URL parameters. Please provide your work as a link to a web page, JSFiddle or other similar service.
